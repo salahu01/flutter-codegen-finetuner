@@ -17,7 +17,7 @@ This toolkit provides a complete workflow for Flutter developers to create perso
 
 ## 🛠️ Getting Started
 
-Check out our comprehensive [Flutter Code Generation Fine-tuning Guide](flutter-code-finetuning-guide.md) for detailed instructions on each step of the process.
+Check out our comprehensive [Flutter Code Generation Fine-tuning Guide](GUIDE.md) for detailed instructions on each step of the process.
 
 ### Prerequisites
 
