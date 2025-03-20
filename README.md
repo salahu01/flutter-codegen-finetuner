@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![AI](https://img.shields.io/badge/AI-Fine--Tuning-brightgreen)](https://github.com/yourusername/flutter-codegen-finetuner)
+[![AI](https://img.shields.io/badge/AI-Fine--Tuning-brightgreen)](https://github.com/salahu01/flutter-codegen-finetuner)
 
 Fine-tune language models to generate Flutter code in your personal coding style! Transform natural language descriptions into custom widgets, screens, and components that match your unique patterns and preferences.
 
@@ -17,20 +17,20 @@ This toolkit provides a complete workflow for Flutter developers to create perso
 
 ## 🛠️ Getting Started
 
-Check out our comprehensive [Flutter Code Generation Fine-tuning Guide](GUIDE.md) for detailed instructions on each step of the process.
+Check out our comprehensive [Flutter Code Generation Fine-tuning Guide](flutter-code-finetuning-guide.md) for detailed instructions on each step of the process.
 
 ### Prerequisites
 
-- Python 3.8+
-- PyTorch
-- Flutter/Dart knowledge
-- GPU access (local or cloud) for training
+- 🐍 Python 3.8+
+- 🔥 PyTorch
+- 💙 Flutter/Dart knowledge
+- 🎮 GPU access (local or cloud) for training
 
 ### Quick Start
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/flutter-codegen-finetuner.git
+git clone https://github.com/salahu01/flutter-codegen-finetuner.git
 cd flutter-codegen-finetuner
 ```
 
@@ -51,7 +51,7 @@ python scripts/train_model.py --config configs/default.json
 
 ## 📚 Documentation
 
-- [Complete Fine-tuning Guide](GUIDE.md)
+- [Complete Fine-tuning Guide](flutter-code-finetuning-guide.md)
 - [Data Format Specification](docs/DATA_FORMAT.md)
 - [Model Selection Guide](docs/MODELS.md)
 - [Deployment Options](docs/DEPLOYMENT.md)
@@ -70,15 +70,15 @@ print(code)
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+We welcome contributions! 🚀 Please follow these steps:
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Fork the repository 🍴
+2. Create a feature branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes: `git commit -m 'Add some amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
+5. Open a Pull Request 📬
 
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## 📜 License
 
@@ -96,8 +96,8 @@ If you use this toolkit in your research or project, please consider citing:
 
 ```
 @software{flutter-codegen-finetuner,
-  author = Swalahu CV,
-  title = Flutter CodeGen FineTuner,
+  author = {Muhammad Salahudeen},
+  title = {Flutter CodeGen FineTuner},
   year = {2025},
   url = {https://github.com/salahu01/flutter-codegen-finetuner}
 }
