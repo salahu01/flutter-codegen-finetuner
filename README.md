@@ -51,7 +51,7 @@ python scripts/train_model.py --config configs/default.json
 
 ## 📚 Documentation
 
-- [Complete Fine-tuning Guide](flutter-code-finetuning-guide.md)
+- [Complete Fine-tuning Guide](GUIDE.md)
 - [Data Format Specification](docs/DATA_FORMAT.md)
 - [Model Selection Guide](docs/MODELS.md)
 - [Deployment Options](docs/DEPLOYMENT.md)
