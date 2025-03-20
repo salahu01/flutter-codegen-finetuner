@@ -95,9 +95,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this toolkit in your research or project, please consider citing:
 
 ```
-@software{flutter_codegen_finetuner,
+@software{flutter-codegen-finetuner,
   author = Swalahu CV,
-  title = {Flutter CodeGen FineTuner},
+  title = Flutter CodeGen FineTuner,
   year = {2025},
   url = {https://github.com/salahu01/flutter-codegen-finetuner}
 }
